@@ -1,15 +1,6 @@
 
 地址数据库地址
 
-```
-#北京
-#user = user_baidumap
-#password = lqh4kwHnfm5&iinnzGdl
-#host = 117.107.241.65
-#port = 3306
-#database = datacenter_baidu
-```
-
 字段
 ID NAME ADDRESS ATTITUDE APTITUDE PGSATTITUDE PGSAPTITUDE
 
